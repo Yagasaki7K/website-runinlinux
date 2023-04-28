@@ -7,6 +7,16 @@ function App() {
       <img src="https://github.com/refined-github.png" alt="github" />
       <h2>RunInLinux</h2>
       <p>The website to know if the game runs or not in Linux</p>
+      <p>
+        Help us by collaborating through{" "}
+        <a
+          href="https://runinlinux.vercel.app/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          GitHub
+        </a>
+      </p>
       <table className="table">
         <thead>
           <tr>
@@ -54,7 +64,6 @@ const HomeDetails = styled.div`
     background-color: #fff;
     border-collapse: collapse;
     border-width: 2px;
-    border-color: #ffcc00;
     border-style: solid;
     color: #000;
   }
@@ -68,7 +77,7 @@ const HomeDetails = styled.div`
   }
 
   table.table thead {
-    background-color: #9e95b7;
+    background-color: #646cff;
     color: #fff;
   }
 `;
