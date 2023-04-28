@@ -52,6 +52,11 @@ function App() {
             <td>✅</td>
           </tr>
           <tr>
+            <td>Hollow Knight</td>
+            <td>Team Cherry</td>
+            <td>✅</td>
+          </tr>
+          <tr>
             <td>League of Legends</td>
             <td>Riot Games</td>
             <td>✅</td>
@@ -86,6 +91,12 @@ function App() {
             <td>CipSoft GmbH</td>
             <td>✅</td>
           </tr>
+          <td>
+            <td>XCOM 2</td>
+            <td>Firaxis Games</td>
+            <td>✅</td>
+          </td>
+          
           {/* ADD MORE GAMES HERE*/}
           {/* <tr>
             <td>Counter Strike: Global Offensive</td>
