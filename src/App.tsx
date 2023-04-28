@@ -62,6 +62,21 @@ function App() {
             <td>❌</td>
           </tr>
           <tr>
+            <td>Minecraft</td>
+            <td>Mojang Studios</td>
+            <td>✅</td>
+          </tr>
+          <tr>
+            <td>Rocket League</td>
+            <td>Psyonix</td>
+            <td>✅</td>
+          </tr>
+          <tr>
+            <td>Stardew Valley</td>
+            <td>ConcernedApe</td>
+            <td>✅</td>
+          </tr>
+          <tr>
             <td>Team Fortress 2</td>
             <td>Valve Software</td>
             <td>✅</td>
