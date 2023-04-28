@@ -56,7 +56,12 @@ function App() {
             <td>Valve Software</td>
             <td>✅</td>
           </tr>
-
+          <tr>
+            <td>Team Fortress 2</td>
+            <td>Valve Software</td>
+            <td>✅</td>
+          </tr>
+          <tr></tr>
           {/* ADD MORE GAMES HERE*/}
           {/* <tr>
             <td>Counter Strike: Global Offensive</td>
