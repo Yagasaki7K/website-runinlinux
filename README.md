@@ -49,6 +49,7 @@ This project was made using the follow technologies:
 * Vite
 * ReactJS
 * Javascript
+* Typescript
 * Styled Components
 
 # 🚀 Features
