@@ -10,7 +10,7 @@ function App() {
       <p>
         Help us by collaborating through{" "}
         <a
-          href="https://runinlinux.vercel.app/"
+          href="https://github.com/Yagasaki7K/website-runinlinux"
           target="_blank"
           rel="noreferrer"
         >
@@ -57,11 +57,20 @@ function App() {
             <td>✅</td>
           </tr>
           <tr>
+            <td>Little Nightmares II</td>
+            <td>BANDAI NAMCO Entertainment</td>
+            <td>❌</td>
+          </tr>
+          <tr>
+            <td>Team Fortress 2</td>
+            <td>Valve Software</td>
+            <td>✅</td>
+          </tr>
+          <tr>
             <td>Tibia</td>
             <td>CipSoft GmbH</td>
             <td>✅</td>
           </tr>
-
           {/* ADD MORE GAMES HERE*/}
           {/* <tr>
             <td>Counter Strike: Global Offensive</td>
