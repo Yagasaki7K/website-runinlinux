@@ -27,18 +27,13 @@ function App() {
         </thead>
         <tbody>
           <tr>
+            <td>AdventureQuest Worlds</td>
+            <td>Artix Entertainment</td>
+            <td>✅</td>
+          </tr>
+          <tr>
             <td>Counter Strike: Global Offensive</td>
             <td>Valve Software</td>
-            <td>✅</td>
-          </tr>
-          <tr>
-            <td>League of Legends</td>
-            <td>Riot Games</td>
-            <td>✅</td>
-          </tr>
-          <tr>
-            <td>Tibia</td>
-            <td>CipSoft GmbH</td>
             <td>✅</td>
           </tr>
           <tr>
@@ -54,6 +49,16 @@ function App() {
           <tr>
             <td>Dota 2</td>
             <td>Valve Software</td>
+            <td>✅</td>
+          </tr>
+          <tr>
+            <td>League of Legends</td>
+            <td>Riot Games</td>
+            <td>✅</td>
+          </tr>
+          <tr>
+            <td>Tibia</td>
+            <td>CipSoft GmbH</td>
             <td>✅</td>
           </tr>
 
