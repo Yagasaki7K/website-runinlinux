@@ -27,6 +27,11 @@ function App() {
         </thead>
         <tbody>
           <tr>
+            <td>AdventureQuest Worlds</td>
+            <td>Artix Entertainment</td>
+            <td>✅</td>
+          </tr>
+          <tr>
             <td>Counter Strike: Global Offensive</td>
             <td>Valve Software</td>
             <td>✅</td>
@@ -46,6 +51,7 @@ function App() {
             <td>Valve Software</td>
             <td>✅</td>
           </tr>
+          <tr>
             <td>League of Legends</td>
             <td>Riot Games</td>
             <td>✅</td>
@@ -65,7 +71,6 @@ function App() {
             <td>CipSoft GmbH</td>
             <td>✅</td>
           </tr>
-          
           {/* ADD MORE GAMES HERE*/}
           {/* <tr>
             <td>Counter Strike: Global Offensive</td>
