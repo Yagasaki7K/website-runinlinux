@@ -36,6 +36,11 @@ function App() {
             <td>Riot Games</td>
             <td>✅</td>
           </tr>
+          <td>
+            <td>Tibia</td>
+            <td>CipSoft GmbH</td>
+            <td>✅</td>
+          </td>
 
           {/* ADD MORE GAMES HERE*/}
           {/* <tr>
