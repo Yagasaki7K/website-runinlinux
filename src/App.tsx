@@ -10,7 +10,7 @@ function App() {
       <p>
         Help us by collaborating through{" "}
         <a
-          href="https://runinlinux.vercel.app/"
+          href="https://github.com/Yagasaki7K/website-runinlinux"
           target="_blank"
           rel="noreferrer"
         >
