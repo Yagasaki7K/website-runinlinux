@@ -36,11 +36,11 @@ function App() {
             <td>Riot Games</td>
             <td>✅</td>
           </tr>
-          <td>
+          <tr>
             <td>Tibia</td>
             <td>CipSoft GmbH</td>
             <td>✅</td>
-          </td>
+          </tr>
           <tr>
             <td>Diablo</td>
             <td>Blizzard Entertainment</td>
