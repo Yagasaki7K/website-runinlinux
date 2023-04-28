@@ -21,6 +21,11 @@ function App() {
             <td>Valve Software</td>
             <td>✅</td>
           </tr>
+          <tr>
+            <td>League of Legends</td>
+            <td>Riot Games</td>
+            <td>✅</td>
+          </tr>
 
           {/* ADD MORE GAMES HERE*/}
           {/* <tr>
