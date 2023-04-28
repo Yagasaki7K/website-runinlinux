@@ -32,16 +32,6 @@ function App() {
             <td>✅</td>
           </tr>
           <tr>
-            <td>League of Legends</td>
-            <td>Riot Games</td>
-            <td>✅</td>
-          </tr>
-          <tr>
-            <td>Tibia</td>
-            <td>CipSoft GmbH</td>
-            <td>✅</td>
-          </tr>
-          <tr>
             <td>Diablo</td>
             <td>Blizzard Entertainment</td>
             <td>✅</td>
@@ -54,6 +44,21 @@ function App() {
           <tr>
             <td>Dota 2</td>
             <td>Valve Software</td>
+            <td>✅</td>
+          </tr>
+          <tr>
+            <td>League of Legends</td>
+            <td>Riot Games</td>
+            <td>✅</td>
+          </tr>
+          <tr>
+            <td>Little Nightmares II</td>
+            <td>BANDAI NAMCO Entertainment</td>
+            <td>❌</td>
+          </tr>
+          <tr>
+            <td>Tibia</td>
+            <td>CipSoft GmbH</td>
             <td>✅</td>
           </tr>
 
