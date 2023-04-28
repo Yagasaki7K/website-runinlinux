@@ -36,6 +36,21 @@ function App() {
             <td>Riot Games</td>
             <td>✅</td>
           </tr>
+          <tr>
+            <td>Diablo</td>
+            <td>Blizzard Entertainment</td>
+            <td>✅</td>
+          </tr>
+          <tr>
+            <td>Diablo II: Lord of Destruction</td>
+            <td>Blizzard Entertainment</td>
+            <td>✅</td>
+          </tr>
+          <tr>
+            <td>Dota 2</td>
+            <td>Valve Software</td>
+            <td>✅</td>
+          </tr>
 
           {/* ADD MORE GAMES HERE*/}
           {/* <tr>
