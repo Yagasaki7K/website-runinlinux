@@ -56,7 +56,7 @@ const HomeDetails = styled.div`
     border-width: 2px;
     border-color: #ffcc00;
     border-style: solid;
-    color: #000000;
+    color: #000;
   }
 
   table.table td,
