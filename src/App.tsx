@@ -68,7 +68,7 @@ const HomeDetails = styled.div`
   }
 
   table.table thead {
-    background-color: #7159c1;
+    background-color: #9e95b7;
     color: #fff;
   }
 `;
