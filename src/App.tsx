@@ -32,6 +32,11 @@ function App() {
             <td>✅</td>
           </tr>
           <tr>
+            <td>ARK: Survival Evolved</td>
+            <td>Studio Wildcard</td>
+            <td>✅</td>
+          </tr>
+          <tr>
             <td>Counter Strike: Global Offensive</td>
             <td>Valve Software</td>
             <td>✅</td>
@@ -47,8 +52,18 @@ function App() {
             <td>✅</td>
           </tr>
           <tr>
+            <td>Don't Starve Together</td>
+            <td>Klei Entertainment</td>
+            <td>✅</td>
+          </tr>
+          <tr>
             <td>Dota 2</td>
             <td>Valve Software</td>
+            <td>✅</td>
+          </tr>
+          <tr>
+            <td>Euro Truck Simulator 2</td>
+            <td>SCS Software</td>
             <td>✅</td>
           </tr>
           <tr>
@@ -57,9 +72,24 @@ function App() {
             <td>✅</td>
           </tr>
           <tr>
+            <td>Left 4 Dead 2</td>
+            <td>Valve Software</td>
+            <td>✅</td>
+          </tr>
+          <tr>
             <td>Little Nightmares II</td>
             <td>BANDAI NAMCO Entertainment</td>
             <td>❌</td>
+          </tr>
+          <tr>
+            <td>Payday 2</td>
+            <td>Overkill Software</td>
+            <td>✅</td>
+          </tr>
+          <tr>
+            <td>Stardew Valley</td>
+            <td>ConcernedApe</td>
+            <td>✅</td>
           </tr>
           <tr>
             <td>Team Fortress 2</td>
