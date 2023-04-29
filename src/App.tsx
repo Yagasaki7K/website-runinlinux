@@ -72,6 +72,11 @@ function App() {
             <td>✅</td>
           </tr>
           <tr>
+            <td>Don't Starve Together</td>
+            <td>Klei Entertainment</td>
+            <td>✅</td>
+          </tr>
+          <tr>
             <td>Dota 2</td>
             <td>Valve Software</td>
             <td>✅</td>
@@ -90,13 +95,18 @@ function App() {
             <td>✅</td>
           </tr>
           <tr>
+            <td>Euro Truck Simulator 2</td>
+            <td>SCS Software</td>
+            <td>✅</td>
+          </tr>
+          <tr>
             <td>League of Legends</td>
             <td>Riot Games</td>
             <td>✅</td>
           </tr>
           <tr>
             <td>Left 4 Dead 2</td>
-            <td>Valve</td>
+            <td>Valve Software</td>
             <td>✅</td>
           </tr>
           <tr>
