@@ -32,6 +32,31 @@ function App() {
             <td>✅</td>
           </tr>
           <tr>
+            <td>Age of Empires II: Definitive Edition</td>
+            <td>Forgotten Empires</td>
+            <td>✅</td>
+          </tr>
+          <tr>
+            <td>Celeste</td>
+            <td>Extremely OK Games</td>
+            <td>✅</td>
+          </tr>
+          <tr>
+            <td>Cities: Skylines</td>
+            <td>Colossal Order</td>
+            <td>✅</td>
+          </tr>
+          <tr>
+            <td>Civilization V</td>
+            <td>Firaxis Games</td>
+            <td>✅</td>
+          </tr>
+          <tr>
+            <td>Civilization VI</td>
+            <td>Firaxis Games</td>
+            <td>✅</td>
+          </tr>
+          <tr>
             <td>Counter Strike: Global Offensive</td>
             <td>Valve Software</td>
             <td>✅</td>
@@ -51,15 +76,63 @@ function App() {
             <td>Valve Software</td>
             <td>✅</td>
           </tr>
+            <td>Europa Universalis IV</td>
+            <td>Paradox Development Studio</td>
+            <td>✅</td>
+          <tr>
+            <td>Hollow Knight</td>
+            <td>Team Cherry</td>
+            <td>✅</td>
+          </tr>
+          <tr>
+            <td>Kerbal Space Program</td>
+            <td>Squad</td>
+            <td>✅</td>
+          </tr>
           <tr>
             <td>League of Legends</td>
             <td>Riot Games</td>
             <td>✅</td>
           </tr>
           <tr>
+            <td>Left 4 Dead 2</td>
+            <td>Valve</td>
+            <td>✅</td>
+          </tr>
+          <tr>
             <td>Little Nightmares II</td>
             <td>BANDAI NAMCO Entertainment</td>
             <td>❌</td>
+          </tr>
+          <tr>
+            <td>Minecraft</td>
+            <td>Mojang Studios</td>
+            <td>✅</td>
+          </tr>
+          <tr>
+            <td>Pillars of Eternity</td>
+            <td>Obsidian Entertainment</td>
+            <td>✅</td>
+          </tr>
+          <tr>
+            <td>Pyre</td>
+            <td>Supergiant Games</td>
+            <td>✅</td>
+          </tr>
+          <tr>
+            <td>Rocket League</td>
+            <td>Psyonix</td>
+            <td>✅</td>
+          </tr>
+          <tr>
+            <td>Stardew Valley</td>
+            <td>ConcernedApe</td>
+            <td>✅</td>
+          </tr>
+          <tr>
+            <td>Total War: THREE KINGDOMS</td>
+            <td>Creative Assembly</td>
+            <td>✅</td>
           </tr>
           <tr>
             <td>Team Fortress 2</td>
@@ -71,6 +144,17 @@ function App() {
             <td>CipSoft GmbH</td>
             <td>✅</td>
           </tr>
+          <tr>
+            <td>War Thunder</td>
+            <td>Gaijin Entertainment</td>
+            <td>✅</td>
+          </tr>
+          <tr>
+            <td>XCOM 2</td>
+            <td>Firaxis Games</td>
+            <td>✅</td>
+          </tr>
+          
           {/* ADD MORE GAMES HERE*/}
           {/* <tr>
             <td>Counter Strike: Global Offensive</td>
