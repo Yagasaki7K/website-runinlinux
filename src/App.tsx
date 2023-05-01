@@ -91,7 +91,12 @@ function App() {
             <td>Paradox Development Studio</td>
             <td>✅</td>
           </tr>
-           <tr>
+          <tr>
+            <td>Euro Truck Simulator 2</td>
+            <td>SCS Software</td>
+            <td>✅</td>
+          </tr>
+          <tr>
             <td>Garry's Mod</td>
             <td>Facepunch Studios Ltd</td>
             <td>✅</td>
@@ -104,11 +109,6 @@ function App() {
           <tr>
             <td>Kerbal Space Program</td>
             <td>Squad</td>
-            <td>✅</td>
-          </tr>
-          <tr>
-            <td>Euro Truck Simulator 2</td>
-            <td>SCS Software</td>
             <td>✅</td>
           </tr>
           <tr>
@@ -197,7 +197,7 @@ function App() {
             <td>Firaxis Games</td>
             <td>✅</td>
           </tr>
-          
+
           {/* ADD MORE GAMES HERE*/}
           {/* <tr>
             <td>Counter Strike: Global Offensive</td>
