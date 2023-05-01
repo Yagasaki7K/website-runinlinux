@@ -57,7 +57,12 @@ function App() {
             <td>✅</td>
           </tr>
           <tr>
-            <td>Counter Strike: Global Offensive</td>
+            <td>Counter-Strike: Global Offensive</td>
+            <td>Valve Software</td>
+            <td>✅</td>
+          </tr>
+          <tr>
+            <td>Counter-Strike: Source</td>
             <td>Valve Software</td>
             <td>✅</td>
           </tr>
@@ -81,9 +86,16 @@ function App() {
             <td>Valve Software</td>
             <td>✅</td>
           </tr>
+          <tr>
             <td>Europa Universalis IV</td>
             <td>Paradox Development Studio</td>
             <td>✅</td>
+          </tr>
+           <tr>
+            <td>Garry's Mod</td>
+            <td>Facepunch Studios Ltd</td>
+            <td>✅</td>
+          </tr>
           <tr>
             <td>Hollow Knight</td>
             <td>Team Cherry</td>
@@ -130,6 +142,11 @@ function App() {
             <td>✅</td>
           </tr>
           <tr>
+            <td>Rise of The Tomb Raider</td>
+            <td>Crystal Dynamics</td>
+            <td>✅</td>
+          </tr>
+          <tr>
             <td>Rocket League</td>
             <td>Psyonix</td>
             <td>✅</td>
@@ -145,8 +162,18 @@ function App() {
             <td>✅</td>
           </tr>
           <tr>
+            <td>Total War: Warhammer II</td>
+            <td>Creative Assembly</td>
+            <td>✅</td>
+          </tr>
+          <tr>
             <td>Team Fortress 2</td>
             <td>Valve Software</td>
+            <td>✅</td>
+          </tr>
+          <tr>
+            <td>Terraria</td>
+            <td>Re-Logic</td>
             <td>✅</td>
           </tr>
           <tr>
@@ -154,6 +181,12 @@ function App() {
             <td>CipSoft GmbH</td>
             <td>✅</td>
           </tr>
+          <tr>
+            <td>Valheim</td>
+            <td>Iron Gate Studio</td>
+            <td>✅</td>
+          </tr>
+
           <tr>
             <td>War Thunder</td>
             <td>Gaijin Entertainment</td>
