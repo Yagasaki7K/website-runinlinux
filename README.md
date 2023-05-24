@@ -87,5 +87,5 @@ Check out the [contributing](./CONTRIBUTING.md) page to see the best places to f
 
 Released in 2023
 
-Made by [Anderson Marlon](https://github.com/Yagasaki7K).
+Made by [Anderson Marlon](https://github.com/Yagasaki7K) & [Kalify Team](https://github.com/KalifyInc).
 This project is under the [MIT license](./LICENSE).
